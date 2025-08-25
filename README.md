@@ -15,7 +15,7 @@ src/
 │── Tiny_nerf.ipynb/          # Tiny NeRF implementation and experiments
 │── Volumne_rendering.py/  # Volume rendering functions and visualization
 report.pdf              # Detailed assignment report with results and explanations
-requirements.txt        # Python dependencies
+COMP4423 Assignment 2 - requirements.pdf        # Assignment specification
 ```
 
 ---
